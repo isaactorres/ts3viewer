@@ -23,8 +23,8 @@ Installation
 ```sh
 download TS3 Viewer to your webserver
 edit config.php with your ts3 server settings
-browse the json folder to view your ts3 server rendered as a JSON object
-browse the index to view your ts3 server rendered in html
+browse to the json folder to view your ts3 server rendered as a JSON object
+browse to the index to view your ts3 server rendered in html
 customize your html, css and images
 ```
 Options
