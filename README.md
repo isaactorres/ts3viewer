@@ -8,12 +8,14 @@ Benefits of TS3 Viewer
 * minimal configuration to get up and running
 * easy front end customization
 
-Dependencies and Credit
+Dependencies, recommendations and credit
 -----------
 TS3 Viewer depends on
-* [Normalize.css]
 * [jQuery]
 * [Handlebars.js]
+
+recommends that you use
+* [Normalize.css]
 
 and has code based on 
 * TSStatus by [Sebastien Gerard]
@@ -25,7 +27,7 @@ download TS3 Viewer to your webserver
 edit config.php with your ts3 server settings
 browse to the json folder to view your ts3 server rendered as a JSON object
 browse to the index to view your ts3 server rendered in html
-customize your html, css and images
+customize the html, css and images
 ```
 Options
 --------------
