@@ -4,7 +4,7 @@ Yet another TeamSpeak 3 Viewer, now with JSON!
 
 Benefits of TS3 Viewer
 -----------
-* your ts3 server is rendered in JSON
+* your ts3 server is rendered in both JSON and HTML
 * minimal configuration to get up and running
 * easy front end customization
 
