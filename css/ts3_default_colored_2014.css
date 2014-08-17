@@ -1,0 +1,80 @@
+div#ts3-viewer{
+	width:200px;
+	overflow: hidden;
+	font-size:11px;
+}
+#ts3-viewer span{
+	vertical-align: middle;
+}
+#ts3-viewer .ts3-indent{
+	padding-left:20px;
+}
+#ts3-viewer .ts3-flag{
+	float:right;
+}
+#ts3-viewer .ts3-flag:after{
+	clear:both;
+}
+#ts3-viewer .ts3-icon{
+	width:100%;
+	height:100%;
+	display:inline-block;
+	background-size: cover;
+}
+#ts3-viewer .ts3-icon-size{
+	width: 16px;
+	height: 16px;
+	display:inline-block;
+	vertical-align: baseline;
+}
+#ts3-viewer .ts3-away{
+	background-image: url('../img/ts3_default_colored_2014/away.png');
+}
+#ts3-viewer .ts3-channel-green{
+	background-image: url('../img/ts3_default_colored_2014/channel_green.png');
+}
+#ts3-viewer .ts3-channel-red{
+	background-image: url('../img/ts3_default_colored_2014/channel_red.png');
+}
+#ts3-viewer .ts3-channel-yellow{
+	background-image: url('../img/ts3_default_colored_2014/channel_yellow.png');
+}
+#ts3-viewer .ts3-default{
+	background-image: url('../img/ts3_default_colored_2014/default.png');
+}
+#ts3-viewer .ts3-group-100{
+	background-image: url('../img/ts3_default_colored_2014/group_100.png');
+}
+#ts3-viewer .ts3-group-200{
+	background-image: url('../img/ts3_default_colored_2014/group_200.png');
+}
+#ts3-viewer .ts3-group-300{
+	background-image: url('../img/ts3_default_colored_2014/group_300.png');
+}
+#ts3-viewer .ts3-group-500{
+	background-image: url('../img/ts3_default_colored_2014/group_500.png');
+}
+#ts3-viewer .ts3-group-600{
+	background-image: url('../img/ts3_default_colored_2014/group_600.png');
+}
+#ts3-viewer .ts3-input-muted{
+	background-image: url('../img/ts3_default_colored_2014/input_muted.png');
+}
+#ts3-viewer .ts3-moderated{
+	background-image: url('../img/ts3_default_colored_2014/moderated.png');
+}
+#ts3-viewer .ts3-output-muted{
+	background-image: url('../img/ts3_default_colored_2014/output_muted.png');
+}
+#ts3-viewer .ts3-player-off{
+	background-image: url('../img/ts3_default_colored_2014/player_off.png');
+}
+#ts3-viewer .ts3-player-on{
+	background-image: url('../img/ts3_default_colored_2014/player_on.png');
+}
+#ts3-viewer .ts3-register{
+	background-image: url('../img/ts3_default_colored_2014/register.png');
+}
+#ts3-viewer .ts3-server-green{
+	background-image: url('../img/ts3_default_colored_2014/server_green.png');
+}
