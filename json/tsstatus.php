@@ -1,10 +1,11 @@
 <?php
 /**
- * TSStatus: Teamspeak 3 JSON
+ * TSStatus
  * @author Sebastien Gerard <seb@sebastien.me>
  * @link http://tsstatus.sebastien.me
- * @author Isaac Torres (github.com/isaactorres)
- * @link 
+ * TeamSpeak 3 Viewer
+ * @author Isaac Torres
+ * @link http://github.com/isaactorres
  * @version 2014-08-16
  **/
 
